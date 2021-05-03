@@ -1,9 +1,9 @@
-import React from 'react'
-
+import React from 'react';
+import SearchItem from './SearchItem'
 export default function About() {
     return (
         <div>
-            <h1>About component</h1>
+            <SearchItem/>
         </div>
     )
 }

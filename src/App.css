@@ -8,10 +8,11 @@
 }
 
 body{
-  background-color: #1C222D;
+  /* background-color: #1C222D; */
   /* background-color: white; */
-  /* background-color: #d1d9dd; */
-  color: white;
+  background-color: #d1d9dd;
+  color:#1C222D;
+  /* color: white; */
   margin: 0px;
   padding: 0px;
 }
@@ -78,8 +79,10 @@ text-transform: capitalize;}
 .list{
   list-style-type: none;
   display: flex;
-  background-color:#DC3545;
-  height: 50px;
+  /* background-color:#DC3545; */
+  background-color: #0046BE;
+
+  height: 60px;
   margin-top: 0px;
   
 }

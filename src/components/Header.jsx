@@ -11,10 +11,10 @@ export default function Header() {
                 <Link className="inner-list" tag="a" to="./about">About</Link>
                 <Link className="inner-list" tag="a" to="./news">News</Link>
                 <Link className="inner-list" tag="a" to="./contact">Contact</Link>
-                <Link className="inner-list" tag="a" to="./contact">Contact</Link>
+                <Link className="inner-list" tag="a" to="./movies">Movies</Link>
                 <Link className="inner-list" tag="a" to="./contact">Contact</Link>
                 <Search type="search" placeholder="search item"/>
-                   <SearchIcon className="search-icon" style={{fontSize:"50px"}}></SearchIcon>
+                   <SearchIcon className="search-icon" style={{fontSize:"50px",color:"white"}}></SearchIcon>
             </ul>
 
         </div>
